@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i am 3rd year student of VIT Bhopal student with an excellence knowledge of Blockchain , nfts, web3 and MERN stack 👋
 
 <!--
 **mohit1225/mohit1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
