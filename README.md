@@ -1,7 +1,8 @@
+![logo](https://github.com/mohit1225/mohit1225/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mohit Raj</h1>
 <h3 align="center">A passionate Software and Blockchain developer</h3>
 
-<img align="left" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0oyR20xZC15RHJPYl9wd18xRUZHN29CTnh6QXxBQ3Jtc0trcmpYNE9IMDc4SS0xSzZtWTdLV2FyOU1VbHZCYU1lbEdWb2hmLS1oQmh2Q21VNGtDYy1Ubk5jSWF2UDdQM25qVGZiQjM1cFdXcmY0eng0TUE0WFZuc09tdG90LWxZa2ZpeE0tSDZoVGZPMUNKMngxaw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://github.com/mohit1225/mohit1225/blob/main/gif%20github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit1225&label=Profile%20views&color=0e75b6&style=flat" alt="mohit1225" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **rajmohit334@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18TihVq46LP39kKwC5RWlIIOECCDcOlzL/view?usp=drivesdk](https://drive.google.com/file/d/18TihVq46LP39kKwC5RWlIIOECCDcOlzL/view?usp=drivesdk)
+- 📄 resume [https://rb.gy/bn69l](https://rb.gy/bn69l)
 
 - ⚡ Fun fact **I Think I am Funny**
 
